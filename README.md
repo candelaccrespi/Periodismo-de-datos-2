@@ -1,4 +1,4 @@
-# periodismo-de-datos-2-
+# periodismo de datos 
 
 ## Cómo afectan las redes sociales a nuestra salud mental
 ### [TRESCA PROYECT: Are social media harmful?](https://trescaproject.eu/2021/10/07/are-social-media-harmful-yes-say-most-europeans-but-its-complicated/)
