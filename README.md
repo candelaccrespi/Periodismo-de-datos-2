@@ -1,7 +1,5 @@
-# periodismo de datos 
-
-## Cómo afectan las redes sociales a nuestra salud mental
-### [TRESCA PROYECT: Are social media harmful?](https://trescaproject.eu/2021/10/07/are-social-media-harmful-yes-say-most-europeans-but-its-complicated/)
+# TRESCA PROYECT: cómo afectan las redes sociales a nuestra salud mental 
+## [TRESCA PROYECT: Are social media harmful?](https://trescaproject.eu/2021/10/07/are-social-media-harmful-yes-say-most-europeans-but-its-complicated/)
 **Comentario del artículo de Sara Degli Esposti, CSIC**
 El texto objeto de comentario aborda la relación entre redes sociales y salud mental. La reflexión de **Esposti** surge a partir del proyecto *TRESCA*, por el cual se conoce la opinión general de la población de diferentes países sobre cómo el uso de redes sociales afecta a su estado de ánimo. El objetivo de este trabajo es que la gente cuente con herramientas para verificar información científica, especialmente aquella vinculada a la salud mental y física. 
 En el comienzo de la noticia, su autora se centra en el impacto que tienen las redes sociales en la salud mental de los más jóvenes. Este tema cuenta con numerosas  testimonios de expertos, siendo mayoritaria la opinión de aquellos que creen que existe una relación proporcional entre el tiempo de uso de las redes sociales y las emociones o pensamientos negativos. 
