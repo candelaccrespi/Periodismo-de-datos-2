@@ -4,7 +4,7 @@
 [ Datawrapper] (https://www.datawrapper.de/_/BkAc8/)
 ![Sin título](https://user-images.githubusercontent.com/99833245/163990412-f97de7f3-12a1-420c-b35c-87367e581fdd.png)
 
-Desde el comienzo de la guerra entre Ucrania y Rusia, el pasado 24 de febrero, los Ministerios de Defensa de ambos países han entregado partes de guerra detallando el número de bajas ejecutadas contra el bando contrario.El problema, tal y como detalla el artículo del medio *Newtral*,es que **los datos aportados por ambas naciones no son coincidentes**.
+Desde el comienzo de la guerra entre Ucrania y Rusia, el pasado 24 de febrero, los Ministerios de Defensa de ambos países han entregado partes de guerra detallando el número de bajas ejecutadas contra el bando contrario.El problema, tal y como detalla el artículo del medio *Newtral*, es que **los datos aportados por ambas naciones no son coincidentes**.
 
 Para Nicholas Marsh, investigador del Instituto de Investigación para la Paz de Oslo, "Rusia tiene un gran interés en tratar de sugerir un número muy pequeño de muertos, mientras Ucrania tiene interés por presentar un número mayor". La información aportada por las instituciones de países en conflicto debe analizarse con suma precaución porque responde a intereses estratégicos.
 
