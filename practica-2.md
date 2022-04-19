@@ -1,10 +1,11 @@
-# Los datos de la guerra: las cifras contradictorias de Rusia y Ucrania muestran la dificultad de estimar daños-->-->
+# Los datos de la guerra: las cifras contradictorias de Rusia y Ucrania muestran la dificultad de estimar daños
 ## [https://www.newtral.es/datos-guerra-cifras-contradictorias-entre-rusia-ucrania/20220307]
 ### *Por Newtral Data, Irene Larraz y Adrián Maqueda*
-
 [ Datawrapper] (https://www.datawrapper.de/_/BkAc8/)
 
-Desde el comienzo de la guerra entre Ucrania y Rusia los ministerios de Defensa de ambos países han entregado partes de guerra detallando el número de bajas ejecutadas contra el bando contrario.El problema, tal y como detalla el artículo del medio *Newtral*,es que los datos aportados por ambos países no son coincidentes. Para Nicholas Marsh, investigadorel *Instituto para la Paz de Oslo*, >"Rusia tiene un gran interés por tratar de sugerir un númeromuy pequeño de muertos, mientras Ucrania tiene interés por presentar un número mayor".
+<iframe title="Bajas sufridas por cada Ejército" aria-label="Barras divididas" id="datawrapper-chart-BkAc8" src="https://datawrapper.dwcdn.net/BkAc8/7/"scrolling="no" frameborder="0" style="width: 0px; border: none; min-width: 100% !important; height: 468px;" height="451"></iframe>
+
+Desde el comienzo de la guerra entre Ucrania y Rusia, los ministerios de Defensa de ambos países han entregado partes de guerra detallando el número de bajas ejecutadas contra el bando contrario.El problema, tal y como detalla el artículo del medio **Newtral*,es que losdatos aportados por ambos países no son coincidentes. Para Nicholas Marsh, investigador el **Instituto para la Pazde Oslo**, >"Rusia tiene un gran interés por tratar de sugerir un número muy pequeño de muertos, mientras Ucrania tiene interés por presentar un número mayor".
 
 La guerra entre Ucrania y Rusia es a día de hoy es el principa problema para la comunidad internacional. Los diferentes organismo supranacionales están prestando toda su atención a los datos aportados por ambos gobiernos para diseñar sus planes de acción. La propia *Naciones Unidas* reconoce que las cifras podrían "aumentar considerablemente" en las próximas semanas, ya que los informes de las zonas bajo ataque llegan con retraso y todavía no han sidocorroborados. 
 
