@@ -20,3 +20,12 @@ Saber **el número de civiles muertos** también es muy complejo. Marsh apunta q
 En los conflictos actuales, **la información se convierte en un arma bélica fundamental**. Los datos no son solo un fuerte medio propagandístico con respecto a la comunidad  internacional, sino que la información institucional también influye directamente en el ánimo de los ciudadanos de los países en conflicto. No minar la moral de la población posiciona a los gobiernos en una situación ventajosa a nivel estratégico.
 
 La complejidad y duración del conflicto (que se remonta al año 2014 con la [**Guerra del Dombás**](https://cnnespanol.cnn.com/2022/04/13/ucrania-donbas-2014-orix/amp/) en 2014) dificulta el poder llevar a cabo un *fact checking* preciso. El [Council on Foreign Relations](https://www.cfr.org/) establece que el número de víctimas en estos ocho años supera los 50.000 muertos. 
+
+### **FUENTES**
++ Artículo Newtral *Invasión rusa en Ucrania: Pedro Sánchez llega a Kiev para reunirse con Zelenski* del 20 de abril del 2022 https://www.newtral.es/guerra-rusia-ucrania/20220226/
++ Artículo Newtral *Los datos de la guerra: las cifras contradictorias de Rusia y Ucrania muestran la dificultad de estimar daños* del 7 de marzo del 2022 https://www.newtral.es/datos-guerra-cifras-contradictorias-entre-rusia-ucrania/20220307/
++ Artículo de CNN España del 13 de abril del 2022 https://cnnespanol.cnn.com/2022/04/13/ucrania-donbas-2014-orix/amp/
++ Infografía de Datawrapper https://www.datawrapper.de/_/BkAc8/  
++ Página Oficial del Council on Foreign Relations https://www.cfr.org/ 
++ Página Oficial del Instituto de Investigación para la Paz de Oslo https://www.prio.org/ 
++ Página oficial de Naciones Unidas https://www.ohchr.org/en/2021/09/oral-update-situation-human-rights-afghanistan?LangID=E&NewsID=27445
