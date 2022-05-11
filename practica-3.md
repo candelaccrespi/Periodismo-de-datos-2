@@ -1,0 +1,3 @@
+### Práctica 3
+
+En esta práctica aprendemos a trabajar a partir de JupyterHab (plataforma que nos permite visualizar datos, librerías y funciones) explorando a partir de diferentes apartados todas sus funciones y posibilidades. Tomando como base los "notebooks" "barchart" y "api-pandas-folium" fuimos desarrollando los ejercicios acompañados cada uno de su respectivo comentario para crear una guía que estipulase los pasos y así poder presentarlos a terceros y conocer nosostros mismos nuestro propio procedimiento. Una vez hechos, los descargamos "ipynb" y "html" y los subimos a nuestro repositorio de GitHub.
